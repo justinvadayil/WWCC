@@ -12,7 +12,7 @@ variable "AWS_REGION" {
 variable "environment" {
   description = "Deployment environment"
   type        = string
-  default     = "dev"
+  default     = "dev1"
 }
 
 resource "aws_s3_bucket" "example" {
