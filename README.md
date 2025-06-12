@@ -1,2 +1,2 @@
-# WWCC
-World Wide Consulting Center
+# Jusnty
+Personal Development
